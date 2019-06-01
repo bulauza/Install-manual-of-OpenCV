@@ -9,12 +9,6 @@ Build OpenCV from source code.
   * 特にバージョンの指定がないなら `pip install opencv-python` が楽
     * 拡張モジュールも使いたい場合は `opencv-contrib-python` も入れればOK
 
-環境  
-公式サイトによると以下をサポート(2019/5/1参照).  
-ちなみに自分が使用しているカーネルは`uname -r`で調べる.  
-> Ubuntu 18.0.4 LTS.  
-> Ubuntu LTS kernels 4.4, 4.10, 4.13 and 4.15.  
-
 流れ  
 1. Install something library  
 2. Download source of OpenCV  
